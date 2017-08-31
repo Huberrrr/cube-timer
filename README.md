@@ -1,5 +1,5 @@
 # cube-timer
-//side project 2016
+//side project 2016 c
 
 arduino-based Rubik's cube competition timer with inspection timer and personal best detection/storage
 
