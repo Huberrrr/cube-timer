@@ -1,8 +1,3 @@
-/*   
- Rubik's Cube Timer by Jon Huber
- TODO: PB Detection (DONE), Inspection + Buzzer (DONE), Different Cubes, CLEAN UP
-*/
-
 // LCD Setup
 #include <LiquidCrystal.h>
 LiquidCrystal lcd(12,11,5,4,3,2);
